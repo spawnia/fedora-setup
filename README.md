@@ -15,3 +15,7 @@ Add SSH key at https://github.com/settings/keys
 ```
 git clone git@github.com:spawnia/fedora-setup.git
 ```
+
+## Jetbrains
+
+https://www.jetbrains.com/toolbox-app/
