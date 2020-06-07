@@ -1,4 +1,5 @@
 #!/bin/sh
+# https://github.com/spawnia/dotfiles
 
 git clone git@github.com:spawnia/dotfiles.git
 cd dotfiles
